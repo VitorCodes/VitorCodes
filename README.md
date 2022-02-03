@@ -47,11 +47,11 @@ const about = {
 ### Project Highlights
 <div>
   <a href="https://github.com/VitorCodes/chatview" target="_blank">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=chatview&theme=github_dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=chatview&theme=github_dark" />
   </a>
   
   <a href="https://github.com/VitorCodes/react-native-motion-slider" target="_blank">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=react-native-motion-slider&theme=github_dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=react-native-motion-slider&theme=github_dark" />
   </a>
 </div>
 <a href="https://github.com/VitorCodes?tab=repositories">View all...</a>
