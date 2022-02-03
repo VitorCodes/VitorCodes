@@ -1,11 +1,89 @@
-👋 Hi, I’m @VitorCodes!
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Vitor Silva</h2>
+<div align="center">
+  <img src="https://pageview.vercel.app/?github_user=vitorcodes" />
+  <img src="https://img.shields.io/github/sponsors/vitorcodes" />
+</div>
+<br/>
+<p align="center">I'm a Software Engineer based in Portugal 🇵🇹</br>My focus is mainly <strong>motion</strong> and <strong>visuals</strong></p>
 
-<!---
-VitorCodes/VitorCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="center">
+  <a href="mailto: vitorcodes@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitorcodes/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/VitorCodesTech" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
+  </a>
+  <a href="https://t.me/VitorCodes" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+  </a>
+</p>
+<br/>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+
+```js
+const about = {
+  name: "Vitor Silva",
+  pronoun: "he/him",
+  workplace: {
+    company: "Talkdesk",
+    role: "Software Engineer"
+  },
+  tech: {
+    languages: ["Javascript", "Typescript", "Python", "Java", "Kotlin"],
+    libs: ["React", "Redux", "Node.js", "Jest", "Testing Library", "Enzyme"],
+    frameworks: ["Next.js", "Gatsby", "React Native", "Spring MVC"],
+    tools: ["Docker", "Webpack", "Nginx", "RabbitMQ"],
+    architectures: ["Microservices", "Event-driven", "Design System Pattern"],
+  },
+  hobbies: ["Guitar", "Videogames", "Crypto", "Trading", "Financial Literacy"],
+  quote: "It ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward. - Rocky Balboa"
+}
+```
+
+<br/>
+
+### Project Highlights
+<div>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=chatview&theme=github_dark" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=react-native-motion-slider&theme=github_dark" />
+</div>
+<a href="https://github.com/VitorCodes?tab=repositories">View all...</a>
+<br/>
+
+### GitHub Stats
+
+<div align="left">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=vitorcodes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcodes&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+### Sponsors & Supporters
+<details>
+  <summary>View all sponsors and supporters</summary>
+
+  > *no one to show yet...*
+</details>
+</br>
+
+------------
+
+<p align="center">If you like what I do, consider sending a tip and get featured on my page ❤️ <br/>
+  <strong>Feel free to choose any of the payment methods bellow</strong></p>
+
+<div align="center">
+  <a href="https://ko-fi.com/vitorcodes" target="_blank">
+    <img width="50" height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ko-fi.svg" />
+  </a>
+  
+  <a href="https://www.buymeacoffee.com/vitorcodes" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="Buy Me A Coffee" height="50" width="70">
+  </a>
+
+  <a href="https://cryptorequest.finance/#/pay/?req=eyJ2ZXJzaW9uIjoiMS4wLjAiLCJhbW91bnQiOiIiLCJpc1RpcCI6dHJ1ZSwicmVjZWl2ZXIiOiIweGYyMTUxMjZBMjc2NmZGZjdCNzNjRGMxNkE4MWI5RGI2ODFmMDMyRUEiLCJjaGFpbklkIjoiMSIsImlzVG9rZW4iOmZhbHNlLCJhc3NldEFkZHJlc3MiOiIweDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJzeW1ib2wiOiJFVEgiLCJ0aXRsZSI6IiVGMCU5RiU4RSU5NyUyMFRpcCUyMENoYXRWaWV3JTIwbnBtJTIwcGFja2FnZSUyMCVGMCU5RiU4RSU5NyJ9" target="_blank">
+    <img width="50" height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ethereum.svg" />
+  </a>
+</div>
+
