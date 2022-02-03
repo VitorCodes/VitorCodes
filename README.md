@@ -38,8 +38,7 @@ const about = {
     tools: ["Docker", "Webpack", "Nginx", "RabbitMQ"],
     architectures: ["Microservices", "Event-driven", "Design System Pattern"],
   },
-  hobbies: ["Guitar", "Videogames", "Crypto", "Trading", "Financial Literacy"],
-  quote: "It ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward. - Rocky Balboa"
+  hobbies: ["Guitar", "Videogames", "Crypto", "Trading", "Financial Literacy"]
 }
 ```
 
@@ -47,8 +46,13 @@ const about = {
 
 ### Project Highlights
 <div>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=chatview&theme=github_dark" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=react-native-motion-slider&theme=github_dark" />
+  <a href="https://github.com/VitorCodes/chatview" target="_blank">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=chatview&theme=github_dark" />
+  </a>
+  
+  <a href="https://github.com/VitorCodes/react-native-motion-slider" target="_blank">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorcodes&repo=react-native-motion-slider&theme=github_dark" />
+  </a>
 </div>
 <a href="https://github.com/VitorCodes?tab=repositories">View all...</a>
 <br/>
