@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/vitorcodes/" target="_blank">
     <img width="32" height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/VitorCodesTech" target="_blank">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-  </a>
   <a href="https://t.me/VitorCodes" target="_blank">
     <img width="32" height="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
   </a>
