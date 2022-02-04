@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/sponsors/vitorcodes" />
 </div>
 <br/>
-<p align="center">I'm a Software Engineer based in Portugal 🇵🇹</br>My focus is mainly <strong>motion</strong> and <strong>visuals</strong></p>
+<p align="center">I'm a Software Engineer from Portugal 🇵🇹</br>My focus is mainly <strong>motion</strong> and <strong>visuals</strong></p>
 
 <p align="center">
   <a href="mailto: vitorcodes@gmail.com">
