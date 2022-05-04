@@ -25,8 +25,8 @@ const about = {
   name: "Vitor Silva",
   pronoun: "he/him",
   workplace: {
-    company: "Talkdesk",
-    role: "Software Engineer"
+    company: "Amyris",
+    role: "Senior Software Engineer"
   },
   tech: {
     languages: ["Javascript", "Typescript", "Python", "Java", "Kotlin"],
