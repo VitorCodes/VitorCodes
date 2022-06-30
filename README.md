@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Vitor Silva</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> my name is Vitor Silva</h2>
 <div align="center">
   <img src="https://pageview.vercel.app/?github_user=vitorcodes" />
   <img src="https://img.shields.io/github/sponsors/vitorcodes" />
@@ -35,7 +35,7 @@ const about = {
     tools: ["Docker", "Webpack", "Nginx", "RabbitMQ"],
     architectures: ["Microservices", "Event-driven", "Design System Pattern"],
   },
-  hobbies: ["Guitar", "Videogames", "Crypto", "Trading", "Financial Literacy"]
+  hobbies: ["Guitar", "Videogames"]
 }
 ```
 
