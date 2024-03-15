@@ -25,7 +25,7 @@ const about = {
   name: "Vitor Silva",
   pronoun: "he/him",
   workplace: {
-    company: "Amyris",
+    company: "Mastercard",
     role: "Senior Software Engineer"
   },
   tech: {
@@ -72,7 +72,7 @@ const about = {
 ------------
 
 <p align="center">If you like what I do, consider sending a tip and get featured on my page ❤️ <br/>
-  <strong>Feel free to choose any of the payment methods bellow</strong></p>
+  <strong>Feel free to choose any of the payment methods below</strong></p>
 
 <div align="center">
   <a href="https://ko-fi.com/vitorcodes" target="_blank">
@@ -81,10 +81,6 @@ const about = {
   
   <a href="https://www.buymeacoffee.com/vitorcodes" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="Buy Me A Coffee" height="50" width="70">
-  </a>
-
-  <a href="https://cryptorequest.finance/#/pay/?req=eyJ2ZXJzaW9uIjoiMS4wLjAiLCJhbW91bnQiOiIiLCJpc1RpcCI6dHJ1ZSwicmVjZWl2ZXIiOiIweGYyMTUxMjZBMjc2NmZGZjdCNzNjRGMxNkE4MWI5RGI2ODFmMDMyRUEiLCJjaGFpbklkIjoiMSIsImlzVG9rZW4iOmZhbHNlLCJhc3NldEFkZHJlc3MiOiIweDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJzeW1ib2wiOiJFVEgiLCJ0aXRsZSI6IiVGMCU5RiU4RSU5NyUyMFRpcCUyMENoYXRWaWV3JTIwbnBtJTIwcGFja2FnZSUyMCVGMCU5RiU4RSU5NyJ9" target="_blank">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ethereum.svg" />
   </a>
 </div>
 
