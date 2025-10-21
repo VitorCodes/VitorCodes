@@ -1,10 +1,5 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> my name is Vitor Silva</h2>
-<div align="center">
-  <img src="https://pageview.vercel.app/?github_user=vitorcodes" />
-  <img src="https://img.shields.io/github/sponsors/vitorcodes" />
-</div>
-<br/>
-<p align="center">I'm a Software Engineer from Portugal 🇵🇹</br>My focus is mainly <strong>motion</strong> and <strong>visuals</strong></p>
+<p align="center">I'm a Software Engineer from Portugal 🇵🇹</br>Love to build products that <strong>make a difference</strong>!
 
 <p align="center">
   <a href="mailto: vitorcodes@gmail.com">
@@ -23,19 +18,19 @@
 ```js
 const about = {
   name: "Vitor Silva",
-  pronoun: "he/him",
   workplace: {
     company: "Mastercard",
     role: "Senior Software Engineer"
   },
   tech: {
     languages: ["Javascript", "Typescript", "Python", "Java", "Kotlin"],
-    libs: ["React", "Redux", "Node.js", "Jest", "Testing Library", "Enzyme"],
-    frameworks: ["Next.js", "Gatsby", "React Native", "Spring MVC"],
-    tools: ["Docker", "Webpack", "Nginx", "RabbitMQ"],
-    architectures: ["Microservices", "Event-driven", "Design System Pattern"],
+    libs: ["React", "Redux Toolkit", "Zustand", "Node.js", "Jest", "Testing Library", "Vitest", "GraphQL", "NestJS"],
+    frameworks: ["Next.js", "React Native", "Spring MVC"],
+    tools: ["Grafana", "OpenSearch", "Kibana", "New Relic"],
+    infrastructure: ["AWS", "Docker", "Kubernetes", "Helm", "Terraform"]
   },
-  hobbies: ["Guitar", "Videogames"]
+  hobbies: ["Guitar", "Videogames", "Travel"],
+  music: ["Metal", "Rock", "Jazz", "VGM", "Classical"]
 }
 ```
 
@@ -72,15 +67,10 @@ const about = {
 ------------
 
 <p align="center">If you like what I do, consider sending a tip and get featured on my page ❤️ <br/>
-  <strong>Feel free to choose any of the payment methods below</strong></p>
 
 <div align="center">
   <a href="https://ko-fi.com/vitorcodes" target="_blank">
     <img width="50" height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ko-fi.svg" />
-  </a>
-  
-  <a href="https://www.buymeacoffee.com/vitorcodes" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="Buy Me A Coffee" height="50" width="70">
   </a>
 </div>
 
